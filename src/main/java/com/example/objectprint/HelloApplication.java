@@ -9,7 +9,6 @@ import java.io.IOException;
 
 public class HelloApplication  {
 
-
     public static void main(String[] args) {
         Person person = new Person("Juan", 30);
         System.out.println(person);
